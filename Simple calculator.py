@@ -1,18 +1,18 @@
-num1=int(input('Enter first number'))
-num2=int(input('Enter second number'))
+number1=int(input('Enter first number'))
+number2=int(input('Enter second number'))
 op=input('Enter operator')
 
 
 if op=='+':
-    print(num1+num2)
+    print(number1+number2)
 
 elif op=='-':
-    print(num1-num2)
+    print(number1-number2)
 
 elif op=='*':
-    print(num1*num2)
+    print(number1*number2)
 
 elif op=='/':
-    print(num1/num2)
+    print(number1/number2)
 
 
